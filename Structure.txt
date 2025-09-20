@@ -1,0 +1,12 @@
+src/
+ ├── components/
+ │     ├── TaskCard.jsx
+ │     ├── Layout.jsx
+ │     ├── Loader.jsx
+ │     ├── ProfileIcon.jsx
+ │     └── Sidebar.jsx 
+ ├── pages/
+ │     ├── Dashboard.jsx
+ │     └── Weather.jsx
+ ├── App.jsx
+ ├── main.jsx

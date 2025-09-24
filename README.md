@@ -28,7 +28,7 @@ A responsive and modern task management dashboard built with React. It helps use
 
 Clone the repository :
 
-    git clone https://github.com/your-username/Todo-Dashboard.git
+    git clone https://github.com/amir-hossien-arhampoor/Todo-Dashboard.git
 
 Navigate to the project folder :
 
@@ -41,3 +41,4 @@ Install dependencies :
 Run the development server :
 
     npm start
+

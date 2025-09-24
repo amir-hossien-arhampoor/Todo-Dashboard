@@ -40,5 +40,7 @@ Install dependencies :
 
 Run the development server :
 
-    npm start
+    npm run dev
+    
+
 
